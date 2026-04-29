@@ -1,0 +1,4 @@
+LIBRARY nsSplashPNG
+EXPORTS
+    show @1
+    stop @2
